@@ -1,0 +1,49 @@
+@charset "ISO-8859-1";body {
+    font-family: Verdana,sans-serif;
+    
+}
+
+header {
+    padding: 10px;
+    color: white;
+    background-color: black;
+}
+
+ footer {
+            color: white;
+            background-color: black;
+            width: 100%;
+            bottom: 0;
+            position: absolute;
+        } 
+
+section {
+    margin: 3px;
+    padding: 5px;
+    background-color: lightgrey;
+	
+}
+
+article {
+    margin: 3px;
+    padding: 5px;
+    background-color: white;
+}
+nav {
+	float:right
+}
+nav ul {
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 5px;
+}
+
+.alignleft {
+	float: left;
+}
+.alignright {
+	float: right;
+}
